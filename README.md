@@ -1,2 +1,5 @@
-# ItemRecommendation
-A dynamic web page that allow users to search job positions and save their favorite job position, and view recommended jobs.
+# Job Plus
+
+### Description
+Job plus is an AWS based web service that recommend personalized job positions to users. 
+
