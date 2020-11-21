@@ -31,8 +31,8 @@
         userFullName = 'John',
         // lng = -122.08,
         // lat = 37.38,
-        lng = -122,
-        lat = 47,
+        lng = -122.08,
+        lat = 37,
         itemArr;
 
     // init
