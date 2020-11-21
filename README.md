@@ -14,4 +14,18 @@ Job plus is an AWS(Amazon Web Service) based web application that recommends per
 * Designed algorithms (e.g., content-based recommendation) to implement job recommendation
 * Deployed to Amazon EC2 for better performance. 
 
+### Screenshots:
+home page / login:
+![Image of Job Plus](./src/main/webapp/assets/login.png)
+
+registration:
 ![Image of Job Plus](./src/main/webapp/assets/register.png)
+
+get nearby positions based on user's geolocation:
+![Image of Job Plus](./src/main/webapp/assets/nearby.png)
+
+get content-based recommendation: 
+![Image of Job Plus](./src/main/webapp/assets/recommendation.png)
+
+favorite a position by clicking on the heart icon:
+![Image of Job Plus](./src/main/webapp/assets/favorite.png)
